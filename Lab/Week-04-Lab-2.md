@@ -163,7 +163,7 @@ idf_component_register(SRCS "main.c"
     ให้นักศึกษาก๊อปปี้ข้อมูลตัวเลขชุดคู่อันดับ `No, ADC Raw` จาก Serial Monitor ทั้งหมดนำไปวางในโปรแกรม **Microsoft Excel** หรือ **Google Sheets** จากนั้นทำการพล็อตกราฟเส้น (Line Chart) โดยให้แกน X เป็นลำดับแซมเปิ้ล (1-20) และแกน Y เป็นค่าดิบของ ADC และแนบรูปกราฟลงในเล่มรายงาน
    <img width="769" height="402" alt="image" src="https://github.com/user-attachments/assets/0f5ecbf7-fde4-4426-ae21-0bc223416d5e" />
 
-   | No | ADC Raw |
+ | No | ADC Raw |
 | :---: | :---: |
 | 1 | 1348 |
 | 2 | 1361 |
@@ -184,7 +184,7 @@ idf_component_register(SRCS "main.c"
 | 17 | 0 |
 | 18 | 0 |
 | 19 | 0 |
-| 20 | 0 | 
+| 20 | 0 |
 3. **คำถามนำเพื่อการวิเคราะห์เชิงระบบ (Critical Thinking):**
     
     - จากกราฟที่พล๊อตออกมา นักศึกษาสังเกตเห็นแนวโน้มตัวเลขของค่า ADC ตั้งแต่แซมเปิ้ลที่ 1 ไต่ระดับลงมาหรือขึ้นไปจนถึงแซมเปิ้ลที่ 20 อย่างไร?
